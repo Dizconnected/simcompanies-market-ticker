@@ -1,2 +1,2 @@
-# simcompanies-market-ticker
-Exchange market ticker for SimCompanies game.
+# SimCompanies Market Tracker
+Exchange market tracker for SimCompanies game.
